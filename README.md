@@ -147,17 +147,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
+https://github.com/user-attachments/assets/3d378071-61d2-426e-b077-6a01c56b925d
+
+
+
 **Vedaanth**
 - GitHub: [@vedaanth-arch](https://github.com/vedaanth-arch)
 - Project Link: [EV-Adoption-Forecast](https://github.com/vedaanth-arch/EV-Adoption-Forecast)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **AICTE Internship Cycle 2 by S4F** for project guidance
 - **Washington State DOL** for providing comprehensive EV registration data
 - **Kaggle Community** for data hosting and accessibility
 - **Streamlit Team** for the amazing web app framework
 
----
-
-*Prepared for the **AICTE Internship Cycle 2 by S4F***
